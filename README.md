@@ -39,3 +39,5 @@ The dataset contains sales data including:
 - Sales_Analysis_PowerBI.pbix – Power BI dashboard file
 - README.md – Project documentation
 - dashboard.png – Dashboard screenshot
+## Dashboard Preview
+![Sales Dashboard](dashboard.png)
